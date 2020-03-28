@@ -27,7 +27,7 @@
           "image":"https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2020-02/scrum_normal-v05.png",
           "precio":30,
           "profesor":"Alejandro Mancilla"
-        }
+        },
         {
             "id":5,
             "titulo":"React desde cero", 
